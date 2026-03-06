@@ -44,8 +44,8 @@
 
     "_comment_tulingcloud": "图灵云打码平台配置（可选，用于本地开发测试，GitHub Actions 中从 secrets 读取）",
     "tulingcloud": {
-        "username": "baofuzhang",
-        "password": "123456",
-        "model_id": "35484990"
+        "username": "",
+        "password": "",
+        "model_id": ""
     }
 }
