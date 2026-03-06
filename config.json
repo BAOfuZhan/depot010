@@ -10,7 +10,7 @@
             "seatid": ["007"],
             "seatPageId": "6656",
             "fidEnc": "e23eb03ef41afd60",
-            "daysofweek": ["Monday","Tuesday",]
+            "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
         }
 
     ],
