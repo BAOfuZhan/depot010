@@ -7,7 +7,7 @@
             "password": "",
             "times": ["10:00", "22:00"],
             "roomid": "",
-            "seatid": ["201"],
+            "seatid": [""],
             "seatPageId": "",
             "fidEnc": "",
             "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
